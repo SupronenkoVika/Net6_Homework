@@ -6,8 +6,8 @@ Console.BackgroundColor = ConsoleColor.Green;
 
 Console.WriteLine("Hello, World!");
 
-Console.ForegroundColor = ConsoleColor.Magenta;
-Console.BackgroundColor = ConsoleColor.Yellow;
+Console.ForegroundColor = ConsoleColor.DarkBlue;
+Console.BackgroundColor = ConsoleColor.White;
 
 for (int i = 0; i < 6; i++)
 {
@@ -18,8 +18,8 @@ for (int i = 0; i < 6; i++)
     Console.WriteLine();
 }
 
-Console.ForegroundColor = ConsoleColor.Blue;
-Console.BackgroundColor = ConsoleColor.Cyan;
+Console.ForegroundColor = ConsoleColor.Black;
+Console.BackgroundColor = ConsoleColor.Yellow;
 
 for (int i = 0; i < 6; i++)
 {
